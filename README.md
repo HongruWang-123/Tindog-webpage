@@ -1,5 +1,5 @@
 # Tindog-webpage
-This is built by using **html, css, and bootstrap**. Only the front-end part work is done and it is mobile-friendly webpage. The webpage is responsive to the screen size. <br>
+This is built by using **html, css, and bootstrap 5**. Only the front-end part work is done and it is mobile-friendly webpage. The webpage is responsive to the screen size. <br>
 weblink:https://hongruwang-123.github.io/Tindog-webpage/
 <br>
 <br>
